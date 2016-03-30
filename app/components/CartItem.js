@@ -1,4 +1,5 @@
 "use strict";
+
 let React = require('react');
 let conversionHelper = require('./../helpers/conversionHelper.js');
 let itemsHelper = require('./../helpers/itemsHelper.js');
